@@ -95,5 +95,5 @@ GOTO MENU
 :OPEN98OS
 cd bin
 cd src
-98osInstaller.bat
+98os.bat
 GOTO MENU
