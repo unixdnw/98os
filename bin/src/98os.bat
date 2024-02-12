@@ -77,6 +77,7 @@ SET /P F=
 cd %F%
 GOTO STARTSCREEN
 :DELETE
+@ECHO even if it says it can't find the file most of the time it's lieing
 @ECHO enter the file name you want to delete:
 SET /P D=
 del /Q %D%
