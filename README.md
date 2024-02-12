@@ -2,7 +2,7 @@
 This is a os that run in your terminal
 and is easy to use for commands just type
 "?" or "help" for all commands
-# and that is it!
-have fun and bye.
 # Install
 download both files an your good
+# and that is it!
+have fun and bye.
